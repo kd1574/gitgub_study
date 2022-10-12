@@ -1,5 +1,6 @@
 // For command line github_study
-// Local repository modification
+// First: Github modification
+// Second : Local repository modification
 
 print("Hello world")
 print("Tell her world")
